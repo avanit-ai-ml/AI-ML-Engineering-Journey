@@ -1,0 +1,10 @@
+{
+  "address": {
+    "State": "Rajasthan",
+    "city": "Jaipur"
+  },
+  "isWorking": true,
+  "name": "Avanit Kumar",
+  "role": "AI ML Engineer",
+  "sub": ["Python", "OOPs", "DSA"]
+}
